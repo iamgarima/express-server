@@ -1,0 +1,22 @@
+{
+  "name": "lreact",
+  "version": "1.0.0",
+  "description": "My first project in react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamgarima/lreact.git"
+  },
+  "author": "Garima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamgarima/lreact/issues"
+  },
+  "homepage": "https://github.com/iamgarima/lreact#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
